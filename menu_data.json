@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Grilled Chicken Salad",
+    "calories": 300,
+    "description": "A healthy salad with grilled chicken, mixed greens, and fresh vegetables."
+  },
+  {
+    "name": "Salmon with Roasted Vegetables",
+    "calories": 450,
+    "description": "Delicious salmon fillet served with a side of roasted vegetables."
+  },
+  {
+    "name": "Quinoa Stuffed Bell Peppers",
+    "calories": 400,
+    "description": "Colorful bell peppers stuffed with a flavorful quinoa filling."
+  }
+]
